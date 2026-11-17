@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KeyRemap</string>
+    <string name="accessibility_service_label">KeyRemap Engine</string>
+    <string name="accessibility_service_description">Intercepts your Essential Key or physical button to launch Gemini Assistant, Flashlight, Screenshots, and custom shortcuts.</string>
+</resources>

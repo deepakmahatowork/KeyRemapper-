@@ -1,0 +1,6 @@
+{
+  "name": "KeyRemap",
+  "description": "Modern Material You hardware button remapper for Nothing OS Essential Key and Android physical keys with multi-gesture, app profiles, and Shizuku support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
